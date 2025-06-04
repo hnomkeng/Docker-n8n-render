@@ -4,8 +4,8 @@ FROM n8nio/n8n:latest
 ENV N8N_BASIC_AUTH_ACTIVE=true
 ENV N8N_BASIC_AUTH_USER=patcharapon.big@gmail.com
 ENV N8N_BASIC_AUTH_PASSWORD=Deathnote1#
-ENV N8N_HOST=n8n-2wol.onrender.com
-ENV WEBHOOK_URL=https://n8n-2wol.onrender.com
+ENV N8N_HOST=n8n.hnomkeng.com
+ENV WEBHOOK_URL=https://n8n.hnomkeng.com
 
 # หากต้องการใช้ timezone ไทย:
 ENV TZ=Asia/Bangkok
